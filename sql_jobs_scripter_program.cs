@@ -12,6 +12,7 @@ using System.IO;
 using CommandLine;
 using CommandLine.Text;
 
+
 namespace sql_jobs_scripter
 {
     public sealed class Options : CommandLineOptionsBase
